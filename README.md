@@ -28,13 +28,13 @@
 - У Вас должен быть доступ к привилегиям: **Ads Management;Creative Management;Lead Management**.
 Доступы можно проверить на **TikTok Business Centre** : [https://business.tiktok.com/](https://business.tiktok.com/)
 
-![Рис.1](images/Lkbiznesakk.jpg)
+![Рис.1](images/Lkbiznesakk.png)
 
 Для интеграции виджета необходимо:
 
 - Зайти в личный кабинет CallKeeper. 
 
-![Рис.2](images/LKCT1.png)
+![Рис.2](images/LKCT1.jpg)
 
 - Во вкладке «Социальные Сети» выберите TikTok.
 
