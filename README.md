@@ -26,7 +26,8 @@
 **Есть ограничения по уровню доступа** :
 - Интеграция возможна только с аккаунтом, которому предоставлен уровень доступа «Администратор».
 - У Вас должен быть доступ к привилегиям: **Ads Management;Creative Management;Lead Management**.
-Доступы можно проверить на **TikTok Business Centre** : [https://business.tiktok.com/](https://business.tiktok.com/)
+Доступы можно проверить на **TikTok Business Centre** : 
+                                               [https://business.tiktok.com/](https://business.tiktok.com/)
 
 ![Рис.1](images/Lkbiznesakk.png)
 
