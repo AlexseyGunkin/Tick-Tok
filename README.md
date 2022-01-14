@@ -18,8 +18,6 @@
 
 2) Настроить рекламные кампании и объявления в TikTok For Business
 
-Подробнее о настройках рекламных кампаний и настройке TikTok Lead Generation  можно прочитать в справочном центре TikTok. [https://ads.tiktok.com/help/article?aid=10001625/](https://ads.tiktok.com/help/article?aid=10001625/)
-
 3) Активный виджет в личном кабинете CallKeeper.
 
 4) Настроить интеграцию и форму для рекламного объявления
